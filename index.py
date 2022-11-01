@@ -25,9 +25,6 @@ for line in list:
   if(re.findall("2nd$",line)):
     ind=(list.index(line))
     ar.append(line + ","+list[ind+1]+","+list[ind+2]+","+list[ind+3])
-    # ar.append(list[ind+1])
-    # ar.append(list[ind+2])
-    # ar.append(list[ind+3])
 
 for item in ar:
   nf.write(item+"\n")
