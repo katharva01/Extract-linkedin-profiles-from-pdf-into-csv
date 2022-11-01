@@ -12,8 +12,8 @@ index.py
 ## Usage
 
 Here,
-input.pdf is your input file in pdf format &
-output.csv is name and extension of your desired output file
+"input.pdf" is your input file in pdf format &
+"output.csv" is name and extension of your desired output file
 
 ```bash
 python index.py input.pdf output.csv
