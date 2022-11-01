@@ -19,6 +19,16 @@ output.csv is name and extension of your desired output file
 python index.py input.pdf output.csv
 ```
 
+## Input and Ouput Examples
+
+### Input Example
+
+![input pdf](inputFormatPic.png?raw=true "Title")
+
+### Output Example
+
+![input pdf](viewOutputImage.png?raw=true "Title")
+
 ## Author
 Atharva Kulkarni
 
