@@ -19,7 +19,7 @@ output.csv is name and extension of your desired output file
 python index.py input.pdf output.csv
 ```
 
-##Author
+## Author
 Atharva Kulkarni
 
 ## Contributing
